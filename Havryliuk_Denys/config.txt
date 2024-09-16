@@ -1,0 +1,6 @@
+text_file=text.txt
+target_language=uk
+output=file
+char_limit=1000
+word_limit=200
+sentence_limit=10
